@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b20269a8e48e4cdaaf6e33ab9422b6f0, type: 3}
+  m_Name: CharacterRaceHuman
+  m_EditorClassIdentifier: 
+  avatars: []
+  ageMin: 10
+  ageMax: 95
+  growthMin: 5
+  growthMax: 6
+  weightMin: 125
+  weightMax: 250
+  speedRun: 30
+  speedFlying: 0
+  speedSwimming: 15
+  speedClimbing: 0
+  colorsOfSkin:
+    serializedVersion: 2
+    key0: {r: 0.8396226, g: 0.7971584, b: 0.7181677, a: 1}
+    key1: {r: 0.9245283, g: 0.70193344, b: 0.5291325, a: 1}
+    key2: {r: 0.2264151, g: 0.18800889, b: 0.18298326, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 31418
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  colorsOfHairs:
+    serializedVersion: 2
+    key0: {r: 0.5521197, g: 0.5428978, b: 0.5660378, a: 1}
+    key1: {r: 0.9150943, g: 0.8681005, b: 0.6963925, a: 1}
+    key2: {r: 0.9150943, g: 0.8116307, b: 0.4374035, a: 0}
+    key3: {r: 0.6509434, g: 0.36658645, b: 0.2128871, a: 0}
+    key4: {r: 0.22745098, g: 0.1882353, b: 0.18431373, a: 0}
+    key5: {r: 0.17028596, g: 0.17959899, b: 0.18867922, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 12529
+    ctime2: 26407
+    ctime3: 39707
+    ctime4: 52621
+    ctime5: 65535
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 6
+    m_NumAlphaKeys: 2
+  colorsOfEyes:
+    serializedVersion: 2
+    key0: {r: 0.13415214, g: 0.14410795, b: 0.16037738, a: 1}
+    key1: {r: 0.254717, g: 0.19797936, b: 0.16500533, a: 1}
+    key2: {r: 0.33790192, g: 0.46795774, b: 0.6320754, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 33731
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  _visions: []
+  _skills: []
+  _languages: 
+  _damageResistances: 
